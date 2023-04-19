@@ -13,7 +13,8 @@ body{
 .navigate {
     display: flex;
     align-items: center;
-    background: rgb(38, 201, 255);
+    /* background: rgb(38, 201, 255); */
+    background: rgb(56, 255, 38);
     height: 5vh;
     justify-content: center;
 }
